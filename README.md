@@ -47,32 +47,32 @@ Please check this video:
 https://www.awesomescreenshot.com/video/11423858?key=377d40d00a6adc2594b134321ce9a9ae
 
 # Screenshots for Sample of the front-end
-1. https://github.com/popinc/local-frontend/blob/main/screenshots/Screenshot_1.png
+1. https://github.com/xianghaowu/superlocal_frontend_sample/blob/main/screenshots/Screenshot_1.png
 
 You can see this screen if you run the app.
 On this screen, you can see the states (mint price, total mint count or total supply) of StampNFT, PassportNFT,and Local Token.
 
-2. https://github.com/popinc/local-frontend/blob/main/screenshots/Screenshot_2.png
+2. https://github.com/xianghaowu/superlocal_frontend_sample/blob/main/screenshots/Screenshot_2.png
 
 When you try to connect your metamask, you can see the short address on screen.
 Once you connected your metamask, you can see the count of your StampNFT, PassportNFT, and Local Token balance.
 
-3. https://github.com/popinc/local-frontend/blob/main/screenshots/Screenshot_3.png
+3. https://github.com/xianghaowu/superlocal_frontend_sample/blob/main/screenshots/Screenshot_3.png
 
 When you try to mint the StampNFT, you can see the progress bar.
 Once mint transaction is completed, you can see to increase the total minted count and your NFT count.
 
-4. https://github.com/popinc/local-frontend/blob/main/screenshots/Screenshot_4.png
+4. https://github.com/xianghaowu/superlocal_frontend_sample/blob/main/screenshots/Screenshot_4.png
 
 When you try to mint the PassportNFT, you can see the progress bar.
 Once mint transaction is completed, you can see to increase the total minted count and your NFT count.
 
-5. https://github.com/popinc/local-frontend/blob/main/screenshots/Screenshot_5.png
+5. https://github.com/xianghaowu/superlocal_frontend_sample/blob/main/screenshots/Screenshot_5.png
 
 When you input the mint amount (0~ maxTxAmount(250)) and try to mint the Local Token, you can see the progress bar.
 Once mint transaction is completed, you can see to increase the total Supply and your local balance.
 
-6. https://github.com/popinc/local-frontend/blob/main/screenshots/Screenshot_6.png
+6. https://github.com/xianghaowu/superlocal_frontend_sample/blob/main/screenshots/Screenshot_6.png
 
 You can see the result for above operations on this screen.
 
